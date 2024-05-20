@@ -29,3 +29,7 @@ By the end of the course, you will be able to:
 ## Prerequisites
 
 This is a beginner course and no prior web development experience is required. Basic internet navigation skills and an eagerness to learn coding are all you need to succeed.
+
+## My certificate
+![image](https://github.com/Pankaj-krCP/Frontend-Development-Professional/assets/81906340/da737e65-d718-4ac7-8027-057c6a7106d2)
+
